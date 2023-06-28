@@ -104,5 +104,5 @@ http://43.205.216.136/index.php
  
 ![image](https://user-images.githubusercontent.com/63364609/225726243-47170e0f-94a8-40f6-8a02-9682edc282c6.png)
 
-Yeappp..! LMAP stack is install successfully and php page is running successfully.
+Yeappp..! LAMP stack is installed successfully and php page is running successfully.
 
